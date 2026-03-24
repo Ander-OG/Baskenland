@@ -3,53 +3,58 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Euskal Herria and Netherlands</title>
+  <title>Euskal Herria &amp; Netherlands</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Euskal Herria and Netherlands</h1>
+
+<header>
+  <div class="header-inner">
+    <h1>Euskal Herria &amp; Netherlands - Cultural Guide</h1>
     <nav>
       <a href="index.php" class="active">Sarrera</a>
-      <a href="cultures.php">Cultures & Languages</a>
+      <a href="cultures.php">Cultures &amp; Languages</a>
       <a href="food.php">Traditional Food</a>
       <a href="sports.php">Sports</a>
       <a href="games.php">Popular Games</a>
     </nav>
-  </header>
+  </div>
+</header>
 
-  <main>
-    <h2>Welcome</h2>
-    
-    <div class="hero">
-      <h3>Welcome to Euskal Herria and Netherlands</h3>
-      <p>Explore the cultures, traditions and unique characteristics of two fascinating regions in Europe.</p>
-    </div>
- 
+<main>
+  <h2>Welcome</h2>
+
+  <div class="hero">
+    <h3>Two Regions, One Journey</h3>
+    <p>Explore the cultures, traditions and unique characteristics of Euskal Herria and the Netherlands.</p>
+  </div>
+
+  <div class="two-col">
     <div class="box">
-      <h3>Euskal Herria (Basque Country) - Spain</h3>
-      <p>A region of Spain with a rich history, unique language and deep traditions. Discover its ancient culture, world-class gastronomy and passion for sports. Located in northern Spain, Euskal Herria is known for its distinctive Basque heritage that sets it apart from the rest of Europe.</p>
+      <h3>Euskal Herria</h3>
+      <p>A region with a unique language spoken nowhere else on Earth, world-class gastronomy, and ancient traditions rooted in the Pyrenees.</p>
     </div>
- 
-    <div class="box">
+    <div class="box dutch">
       <h3>Netherlands</h3>
-      <p>A country of innovation, bicycles and canals. Discover its maritime heritage, authentic culinary traditions and the spirit of freedom that defines its people.</p>
+      <p>A nation of innovators and cyclists. Canals, cheese markets, and a culture of openness make it one of Europe's most distinctive places.</p>
     </div>
- 
-    <div class="box">
-      <h3>What will you find here?</h3>
-      <ul>
-        <li><strong>Cultures & Languages:</strong> Unique languages and cultural traditions</li>
-        <li><strong>Traditional Food:</strong> Authentic gastronomy and typical dishes</li>
-        <li><strong>Sports Culture:</strong> Passion for sports in both regions</li>
-        <li><strong>Popular Games:</strong> Traditional games and entertainment</li>
-      </ul>
-    </div>
- 
-    <div class="box highlight">
-      <h3>Begin your journey!</h3>
-      <p>Click on the menu above to explore each section and discover what makes these two regions special.</p>
-    </div>
-  </main>
+  </div>
+
+  <div class="box">
+    <h3>What will you find here?</h3>
+    <ul>
+      <li><strong>Cultures &amp; Languages:</strong> Unique languages and living cultural traditions</li>
+      <li><strong>Traditional Food:</strong> Authentic gastronomy from Michelin stars to street herring</li>
+      <li><strong>Sports Culture:</strong> Football, pelota, cycling and speed skating</li>
+      <li><strong>Popular Games:</strong> Traditional games and entertainment from both regions</li>
+    </ul>
+  </div>
+
+  <div class="box highlight">
+    <h3>Begin your journey</h3>
+    <p>Use the menu above to explore each section.</p>
+  </div>
+</main>
+
 </body>
 </html>
