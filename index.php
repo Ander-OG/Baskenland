@@ -10,7 +10,7 @@
 
 <header>
   <div class="header-inner">
-    <h1>Euskal Herria &amp; Netherlands - Cultural Guide</h1>
+    <h1>Euskal Herria &amp; Netherlands — Cultural Guide</h1>
     <nav>
       <a href="index.php" class="active">Sarrera</a>
       <a href="cultures.php">Cultures &amp; Languages</a>
@@ -31,16 +31,26 @@
 
   <div class="two-col">
     <div class="box">
-      <h3>Euskal Herria</h3>
-      <p>A region with a unique language spoken nowhere else on Earth, world-class gastronomy, and ancient traditions rooted in the Pyrenees.</p>
+      <img class="box-img"
+            src="Argazkiak/SanSebastian.jpg"
+            alt="San Sebastian, Euskal Herria">
+      <div class="box-content">
+        <h3>Basque Country</h3>
+        <p>A region with a unique language spoken nowhere else on Earth, world-class gastronomy, and ancient traditions rooted in the Pyrenees.</p>
+      </div>
     </div>
     <div class="box dutch">
-      <h3>Netherlands</h3>
-      <p>A nation of innovators and cyclists. Canals, cheese markets, and a culture of openness make it one of Europe's most distinctive places.</p>
+      <img class="box-img"
+            src="Argazkiak/Tilburg.jpg"
+            alt="Tilburg, Netherlands">
+      <div class="box-content">
+        <h3>Netherlands</h3>
+        <p>A nation of innovators and cyclists. Canals, cheese markets, and a culture of openness make it one of Europe's most distinctive places.</p>
+      </div>
     </div>
   </div>
 
-  <div class="box">
+  <div class="box-simple">
     <h3>What will you find here?</h3>
     <ul>
       <li><strong>Cultures &amp; Languages:</strong> Unique languages and living cultural traditions</li>
@@ -50,7 +60,7 @@
     </ul>
   </div>
 
-  <div class="box highlight">
+  <div class="highlight">
     <h3>Begin your journey</h3>
     <p>Use the menu above to explore each section.</p>
   </div>

@@ -27,16 +27,27 @@
   <h3>Euskal Herria</h3>
 
   <div class="box">
-    <p><strong>Languages:</strong> Euskera (Basque), Spanish and English in tourist areas. Euskera is a language isolate with no known relation to any other language family.</p>
+    <img class="box-img"
+          src="Argazkiak/Ikurrina.jpg"
+          alt="Ikurrina">
+    <div class="box-content">
+      <p><strong>Languages:</strong> Euskera (Basque), Spanish and English in tourist areas. Euskera is a language isolate with no known relation to any other language family.</p>
+    </div>
   </div>
+
   <div class="box">
-    <p><strong>Regional identities:</strong></p>
-    <ul>
-      <li><strong>Gipuzkoa:</strong> Coastal traditions, fishing villages and cider culture</li>
-      <li><strong>Bizkaia:</strong> Mining heritage, Bilbao and a strong modern cultural scene</li>
-      <li><strong>Araba / Álava:</strong> Rural character, wine production and agricultural heritage</li>
-      <li><strong>Nafarroa / Navarra:</strong> Medieval towns, the Camino de Santiago and Sanfermines</li>
-    </ul>
+    <img class="box-img"
+          src="Argazkiak/Kultura.jpg"
+          alt="Kultura">
+    <div class="box-content">
+      <p><strong>Regional identities:</strong></p>
+      <ul>
+        <li><strong>Gipuzkoa:</strong> Coastal traditions, fishing villages and cider culture</li>
+        <li><strong>Bizkaia:</strong> Mining heritage, Bilbao and a strong modern cultural scene</li>
+        <li><strong>Araba / Álava:</strong> Rural character, wine production and agricultural heritage</li>
+        <li><strong>Nafarroa / Navarra:</strong> Medieval towns, the Camino de Santiago and Sanfermines</li>
+      </ul>
+    </div>
   </div>
 
   <hr>
@@ -44,16 +55,27 @@
   <h3>Netherlands</h3>
 
   <div class="box dutch">
-    <p><strong>Languages:</strong> Dutch (official), English (spoken by nearly everyone), German and French also widely understood.</p>
+    <img class="box-img"
+          src="Argazkiak/Dutch.jpg"
+          alt="Netherlands language">
+    <div class="box-content">
+      <p><strong>Languages:</strong> Dutch (official), English (spoken by nearly everyone), German and French also widely understood.</p>
+    </div>
   </div>
+
   <div class="box dutch">
-    <p><strong>Regional identities:</strong></p>
-    <ul>
-      <li><strong>Noord-Holland:</strong> Maritime heritage, cheese towns of Alkmaar and Edam, windmills and Amsterdam</li>
-      <li><strong>Zuid-Holland:</strong> Port of Rotterdam, The Hague, Delft pottery and Leiden</li>
-      <li><strong>Friesland:</strong> Its own language (Frisian), skating culture and strong rural identity</li>
-      <li><strong>Rural regions:</strong> Farming communities and traditional dress in Volendam and Marken</li>
-    </ul>
+    <img class="box-img"
+          src="Argazkiak/Culture.jpg"
+          alt="Culture, Netherlands">
+    <div class="box-content">
+      <p><strong>Regional identities:</strong></p>
+      <ul>
+        <li><strong>Noord-Holland:</strong> Maritime heritage, cheese towns of Alkmaar and Edam, windmills and Amsterdam</li>
+        <li><strong>Zuid-Holland:</strong> Port of Rotterdam, The Hague, Delft pottery and Leiden</li>
+        <li><strong>Friesland:</strong> Its own language (Frisian), skating culture and strong rural identity</li>
+        <li><strong>Rural regions:</strong> Farming communities and traditional dress in Volendam and Marken</li>
+      </ul>
+    </div>
   </div>
 </main>
 
