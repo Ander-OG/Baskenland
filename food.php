@@ -75,8 +75,8 @@
 
   <div class="box dutch">
     <img class="box-img"
-          src="Argazkiak/stroopwafels.jpg"
-          alt="Stroopwafel">
+          src="Argazkiak/Rookworst.jpg"
+          alt="Rookworst">
     <div class="box-content">
       <p><strong>Famous dishes:</strong></p>
       <ul>
